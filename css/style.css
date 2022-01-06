@@ -18,7 +18,7 @@ h1{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 
 .half-width{
@@ -100,4 +100,15 @@ h1{
     width: 120%;
     margin-left: 5px;
 }
+.section-one-header{
+    text-align: center;
+}
 /* 5th section CSS ends*/
+
+.last-section{
+    background-color: rgb(7, 7, 26);
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
